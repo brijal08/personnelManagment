@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UiSchemes.qml</file>
+        <file>AddEmployee.qml</file>
+        <file>PushButton.qml</file>
+        <file>TextRect.qml</file>
+        <file>MonthlyPaidEmployeeDetail.qml</file>
+        <file>EmployeeDetails.qml</file>
+        <file>HourlyPaidEmployeeDetail.qml</file>
+        <file>SalesmanEmployeeDetail.qml</file>
+        <file>DateEdit.qml</file>
+        <file>CustomVScrollBar.qml</file>
+        <file>CustomHScrollBar.qml</file>
+    </qresource>
+</RCC>
